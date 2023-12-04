@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "DimaDevelopment",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "axios": "^1.6.2",
     "dotenv": "^16.3.1",
